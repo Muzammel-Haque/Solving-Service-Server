@@ -1,4 +1,4 @@
-Project Name:- Solving Services(Server)
+Project Name:- Solving Services
 
 Technology:-
 HTML, CSS, Bootstrap, JavaScript, ES6, React, React Router, Node.js, Express.js, MongoDB, Material-UI, React Bootstrap.
@@ -17,8 +17,8 @@ Authentication system is also used in this  project.
 
 
 
-
-Server-Code-Link: https://github.com/Muzammel-Haque/ment-s-11
+Clint-Code-link: https://github.com/Muzammel-Haque/RESUME-11
 
 Live-link: https://tushar-enterprise.web.app/
+
 
